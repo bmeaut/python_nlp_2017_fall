@@ -24,13 +24,13 @@ Administrative and technical questions should be directed to Gabor Recski (recsk
 | 9/20/2017  | NO CLASS (Rektori szünet)         |   | 9/22/2017  |                                    |                        |
 | 9/27/2017  | OOP                               |   | 9/29/2017  |                                    | HW 1                   |
 | 10/4/2017  | generators, context managers, CLI |   | 10/6/2017  |                                    |                        |
-| 10/11/2017 | decorators, packaging             |   | 10/13/2017 | numpy, scipy "előadás"             |                        |
-| 10/18/2017 | Tagging problems                  |   | 10/20/2017 | numpy+scipy "gyak"                 | Deadline - HW 1        |
+| 10/11/2017 | decorators, packaging             |   | 10/13/2017 | numpy, scipy                       |                        |
+| 10/18/2017 | Tagging problems                  |   | 10/20/2017 | numpy, scipy                       | Deadline - HW 1        |
 | 10/25/2017 | Morphology                        |   | 10/27/2017 | Tagging problems                   | HW 2                   |
 | 11/1/2017  | NO CLASS (All Saints' Day)        |   | 11/3/2017  | Morphology                         |                        |
 | 11/8/2017  | Syntax                            |   | 11/10/2017 | Syntax                             |                        |
 | 11/15/2017 | Translation                       |   | 11/17/2017 | Translation                        | HW 3 / Deadline - HW 2 |
-| 11/22/2017 | Semantics I                       |   | 11/24/2017 | NO CLASS (Open House)              |                        |
-| 11/29/2017 | Semantics II                      |   | 12/1/2017  | Semantics Lab 1 (databases, tools) |                        |
-| 12/6/2017  | Semantics III                     |   | 12/8/2017  | Semantics Lab 2 (Sentiment A)      | Deadline - HW 3        |
+| 11/22/2017 | Semantics 1                       |   | 11/24/2017 | NO CLASS (Open House)              |                        |
+| 11/29/2017 | Semantics 2                      |   | 12/1/2017  | Semantics Lab 1                   |                        |
+| 12/6/2017  | Semantics 3                     |   | 12/8/2017  | Semantics Lab 2                    | Deadline - HW 3        |
 |            |                                   |   |            |                                    |                        |
