@@ -19,11 +19,11 @@ Administrative and technical questions should be directed to Gabor Recski (recsk
 
 |            | Lecture                           |   |            | Lab                                |                        |
 |------------|-----------------------------------|---|------------|------------------------------------|------------------------|
-| 9/6/2017   | Intro + Python Intro              |   | 9/8/2017   | setting up                         |                        |
-| 9/13/2017  | Built-in types                    |   | 9/15/2017  |                                    |                        |
-| 9/20/2017  | NO CLASS (Rektori szünet)         |   | 9/22/2017  |                                    |                        |
-| 9/27/2017  | OOP                               |   | 9/29/2017  |                                    | HW 1                   |
-| 10/4/2017  | generators, context managers, CLI |   | 10/6/2017  |                                    |                        |
+| 9/6/2017   | Intro + Python Intro              |   | 9/8/2017   | Jupyter, basic exercises           |                        |
+| 9/13/2017  | Built-in types, functions         |   | 9/15/2017  | intermediate exercises             |                        |
+| 9/20/2017  | NO CLASS (Rektori szünet)         |   | 9/22/2017  | more complex exercises             |                        |
+| 9/27/2017  | Object oriented Python, modules   |   | 9/29/2017  | complex OOP exercises              | HW 1                   |
+| 10/4/2017  | generators, context managers, CLI |   | 10/6/2017  | advanced exercises                 |                        |
 | 10/11/2017 | decorators, packaging             |   | 10/13/2017 | numpy, scipy                       |                        |
 | 10/18/2017 | Tagging problems                  |   | 10/20/2017 | numpy, scipy                       | Deadline - HW 1        |
 | 10/25/2017 | Morphology                        |   | 10/27/2017 | Tagging problems                   | HW 2                   |
@@ -31,6 +31,6 @@ Administrative and technical questions should be directed to Gabor Recski (recsk
 | 11/8/2017  | Syntax                            |   | 11/10/2017 | Syntax                             |                        |
 | 11/15/2017 | Translation                       |   | 11/17/2017 | Translation                        | HW 3 / Deadline - HW 2 |
 | 11/22/2017 | Semantics 1                       |   | 11/24/2017 | NO CLASS (Open House)              |                        |
-| 11/29/2017 | Semantics 2                      |   | 12/1/2017  | Semantics Lab 1                   |                        |
-| 12/6/2017  | Semantics 3                     |   | 12/8/2017  | Semantics Lab 2                    | Deadline - HW 3        |
+| 11/29/2017 | Semantics 2                       |   | 12/1/2017  | Semantics Lab 1                    |                        |
+| 12/6/2017  | Semantics 3                       |   | 12/8/2017  | Semantics Lab 2                    | Deadline - HW 3        |
 |            |                                   |   |            |                                    |                        |
