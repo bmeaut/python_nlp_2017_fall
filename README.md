@@ -18,7 +18,7 @@ Administrative and technical questions should be directed to Gabor Recski (recsk
 ### Schedule
 
 | Week |            | Lecture                           |   |            | Lab                                |                        |
-|------------|-----------------------------------|---|------------|------------------------------------|------------------------|
+|---|------------|-----------------------------------|---|------------|------------------------------------|------------------------|
 | 1 | 9/6/2017   | Intro + Python Intro              |   | 9/8/2017   | Jupyter, basic exercises           |                        |
 | 2 | 9/13/2017  | Built-in types, functions         |   | 9/15/2017  | intermediate exercises             |                        |
 | 3 | 9/20/2017  | NO CLASS (Rektori szünet)         |   | 9/22/2017  | more complex exercises             |                        |
