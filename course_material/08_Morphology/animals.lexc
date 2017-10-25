@@ -1,0 +1,14 @@
+Multichar_Symbols MEOW MOO WOOF
+
+LEXICON Root
+cat   CatSound ;
+kitty CatSound ;
+cowMOO:cow  # ;  ! In-place transduction; # = end-of-word
+dog   DogSound ;
+puppy DogSound ;
+
+LEXICON CatSound
+MEOW:0       # ;  ! MEOW on the upper tape; nothing on the lower
+
+LEXICON DogSound
+WOOF:0       # ;  ! WOOF on the upper tape; nothing on the lower
