@@ -19,4 +19,12 @@ RUN cd /nlp/hfst && wget http://sandbox.mokk.bme.hu/~judit/resources/hu.hfstol
 
 RUN cd /nlp && git clone https://github.com/bmeaut/python_nlp_2017_fall.git
 
-EXPOSE 8080
+RUN apt-get install -y zlib1g-dev flex subversion
+RUN git clone https://github.com/mhulden/foma.git
+
+RUN apt-get install -y bison
+RUN apt-get install -y libreadline6 libreadline6-dev
+
+RUN cd foma/foma && make && make install
+
+EXPOSE 8888
