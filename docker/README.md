@@ -23,6 +23,14 @@ Start the image in a new container and execute bash in one command
 This command will forward the container's 8888 port to the host system's 8888 port. We will use this port to connect to Jupyter.
 
 
+## Directories
+
+The course's repository is already cloned into `/nlp/python_nlp_2017_fall`. Don't forget to pull the latest version:
+
+    cd /nlp/python_nlp_2017_fall && git pull
+
+The Hungarian HFST model is available at `/nlp/hfst/hu.hfstol`.
+
 ## Running Jupyter inside the container
 
     jupyter notebook --port=8888 --ip=0.0.0.0 --no-browser --allow-root
