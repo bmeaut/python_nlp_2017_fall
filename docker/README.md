@@ -17,7 +17,7 @@
 Start the image in a new container and execute bash in one command
 
 
-    docker run -p 8888:8888 -it python_nlp:latest bash
+    docker run -p 8888:8888 -it juditacs/python_nlp:latest bash
 
 
 This command will forward the container's 8888 port to the host system's 8888 port. We will use this port to connect to Jupyter.
