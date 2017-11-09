@@ -1,3 +1,36 @@
+# Start an existing Docker container
+
+Your container from previous week(s) is available on the same machine you used last time.
+Start Docker and Powershell.
+
+Find out the name and id of your container:
+
+    docker ps -a
+
+This command lists every container including the stopped ones (all of them are stopped at this point).
+
+The third column lists the image's name, find for `juditacs/python_nlp`.
+
+The first column is the id of the containers and the last column is their name.
+
+Start your old container with:
+
+    docker start <container id or name>
+
+(tip: if you use the id, it is enough to specify the first few letters, as long as it's not ambiguous)
+
+Check your running container:
+
+    docker ps
+
+You should see one running container.
+
+Start a shell in the container:
+
+    docker exec -it <container id or name> bash
+ 
+Have fun.
+
 # Docker instructions
 
 * start Windows WITH Hypervisor
