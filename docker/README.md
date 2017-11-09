@@ -9,11 +9,11 @@ Find out the name and id of your container:
 
 This command lists every container including the stopped ones (all of them are stopped at this point).
 
-The third column lists the image's name, find for `juditacs/python_nlp`.
+The third column lists the image's name, find `juditacs/python_nlp`.
 
 The first column is the id of the containers and the last column is their name.
 
-Start your old container with:
+Start your old container:
 
     docker start <container id or name>
 
