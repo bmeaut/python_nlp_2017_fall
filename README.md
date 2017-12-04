@@ -2,8 +2,8 @@
 ## 2017 Fall, [BME Department of Automation and Applied Informatics](http://www.aut.bme.hu)
 
 ### Time and place
-Lecture: each Wednesday, 12.15 pm. - 2.00 pm. at Q.BF14, starting on September 5th
-Lab: each Friday, 12.15 pm. - 2.00 pm. at Q.B237, starting on September 7th
+- Lecture: Wednesdays, 12.15 pm. - 2.00 pm. at Q.BF14, starting on September 5th
+- Lab: Fridays, 12.15 pm. - 2.00 pm. at Q.B237, starting on September 7th
 
 ### Instructors
 - Judit Acs
