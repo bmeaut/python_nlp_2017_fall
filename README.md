@@ -1,5 +1,5 @@
 # Introduction to Python and Human Language Technologies
-## 2017 Fall, [BME Department of Automation and Applied Informatics](www.aut.bme.hu)
+## 2017 Fall, [BME Department of Automation and Applied Informatics](http://www.aut.bme.hu)
 
 ### Time and place
 Lecture: each Wednesday, 12.15 pm. - 2.00 pm. at Q.BF14, starting on September 5th
