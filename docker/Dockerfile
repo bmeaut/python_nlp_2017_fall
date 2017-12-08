@@ -27,4 +27,7 @@ RUN apt-get install -y libreadline6 libreadline6-dev
 
 RUN cd foma/foma && make && make install
 
+RUN apt-get install -y graphviz
+RUN pip3 install sklearn
+
 EXPOSE 8888
