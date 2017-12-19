@@ -9,6 +9,14 @@ demonstrated in __both topics__ to pass the exam.
 
 - The exam grade will count towards 50% of the final grade.
 
+## Exam times and location
+
+|Date | Time | Location|
+|-----|------|---------|
+| December 20 (Wed) | 08:00 | Q.B203 |
+| January 3 (Wed)   | 10:00 | Q.B203 |
+| January 17 (Wed)  | 10:00 | Q.B203 |
+
 
 # I. NLP topics
 
@@ -106,8 +114,6 @@ demonstrated in __both topics__ to pass the exam.
 - Word alignment; examples and arity
 - Phrase acquisition for phrase-based MT
 - IBM Model 1: algorithm and mathematical formulation
-
-These have to be cut up, but I haven't yet decided how.
 
 ## 11. Word meaning
 - Representations: distributional and ontology-based approaches, pros and cons for each.
